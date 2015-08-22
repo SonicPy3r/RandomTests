@@ -6,4 +6,5 @@ main()
 
 Function main () 
 	Print "Dies ist ein Test" ; Gibt ein String aus - Dies ist ein Test
+	WaitKey
 End Function 
